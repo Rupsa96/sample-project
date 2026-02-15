@@ -5,4 +5,8 @@ function Calculator(a, b) {
     console.log(a / b);
 }
 
+
+
+
+
 Calculator(10, 5);
